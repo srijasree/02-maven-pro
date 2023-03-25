@@ -19,6 +19,11 @@
     <artifactId>spring-core</artifactId>
     <version>6.0.7</version>
 </dependency>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>6.0.7</version>
+</dependency>
   </dependencies>
   <build>
     <finalName>02-maven-webapp</finalName>
